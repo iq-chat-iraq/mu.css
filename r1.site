@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+   <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="استضافة ماي هوست ">
+    <meta name="keywords" content="استضافة تايجر هوست , شات استضافة تايجر هوست , شات استضافة جوال هوست , استضافة دوك موبايل , شات دوك موبايل , شات ايفون هوست , استضافة ايفون هوست  , استضافة سعودي هوست , استضافة دوك , استضافة جوال هوست , استضافة ريلاكس هوست , استضافة تايجر , شات تايجر , شاتات للجوالع , تاجير شات , سكربت شات جوال , سكربت يوكام هوست , استضافة يوكام هوست , شاتات جوال , شات استضافة يوكام هوست , استضافة يوكام" />
+    <!--favicon icon-->
+    <link rel="icon" href="https://h.top4top.io/p_2254x5hyg1.png">
+
+    <!--title-->
+    <title>استضافة ماي هوست- my host </title>
+    <!--build:css-->
+    <!-- endbuild -->
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://rawcdn.githack.com/iq-chat-iraq/mu.css/275f6c99c3916d9b8c774e00ab028f8597dbfa76/family.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://rawcdn.githack.com/iq-chat-iraq/mu.css/f808bb7c4b39ed866d53678e417e13c6a47db62b/all.min.css">
+    <link href="https://rawcdn.githack.com/iq-chat-iraq/mu.css/349a64575b96ae1c2e374245875d82bbb146ce6b/awesome.min.css" rel="stylesheet" >
+
+        <link href="https://rawcdn.githack.com/iq-chat-iraq/mu.css/349a64575b96ae1c2e374245875d82bbb146ce6b/font12.css" rel="stylesheet" >
+                <link href="https://rawcdn.githack.com/iq-chat-iraq/mu.css/5683ebcc4ce205460e756c798fea9a407becb51f/font13.css" rel="stylesheet" >
+                 <link rel="stylesheet" href="https://rawcdn.githack.com/iq-chat-iraq/mu.css/3e8fca4db985773cc50c18a09081803960aed55d/main-rtl.css">
+
+                    <link rel="stylesheet" href="https://rawcdn.githack.com/iq-chat-iraq/mu.css/3e8fca4db985773cc50c18a09081803960aed55d/fon1t.css">
+                    <link rel="stylesheet" href="https://rawcdn.githack.com/iq-chat-iraq/mu.css/0970c0c230894244a04d0eac454f0d1d080642dc/main-rtl1.css">
+
+                   
+
+
+
+
+
+</head>
+
+<body>
+
+    <!--preloader start-->
+    <div id="preloader">
+        <div class="preloader-wrap">
+            <div class="preloader">
+                <i>.</i>
+                <i>.</i>
+                <i>.</i>
+            </div>
+        </div>
+    </div>
+    <!--preloader end-->
+    <!--header section start-->
+    <header id="header" class="header-main">
+        <!--main header menu start-->
+        <div id="logoAndNav" class="main-header-menu-wrap bg-transparent fixed-top">
+            <div class="container">
+                <nav class="js-mega-menu navbar navbar-expand-md header-nav">
+
+                    <!--logo start-->
+                    <a class="navbar-brand pt-0" href="index.html"><img src="https://c.top4top.io/p_2254xdqp91.gif" alt="logo" class="img-fluid" /></a>
+                    <!--logo end-->
+
+                    <!--responsive toggle button start-->
+                    <button type="button" class="navbar-toggler btn" aria-expanded="false" aria-controls="navBar" data-toggle="collapse" data-target="#navBar">
+                        <span id="hamburgerTrigger">
+                          <span class="fa-home"></span>
+                        </span>
+                    </button>
+                    <!--responsive toggle button end-->
+
+                    <!--main menu start-->
+                    <div id="navBar" class="collapse navbar-collapse">
+                        <ul class="navbar-nav ml-auto main-navbar-nav">
+                            <!--home start-->
+                            <li class="nav-item hs-has-mega-menu custom-nav-item" data-position="center">
+                                        <li class="nav-item custom-nav-item">
+                                <a class="nav-link custom-nav-link" href="index.html">الصفحة الرئيسية</a>
+                            </li>
+
+                                <!--home mega menu end-->
+
+                            <!--hosting start-->
+                            <li class="nav-item hs-has-mega-menu custom-nav-item position-relative" data-position="center">
+                                <a id="hostingMegaMenu" class="nav-link custom-nav-link main-link-toggle" href="JavaScript:Void(0);" aria-haspopup="true" aria-expanded="false">الاستضافة</a>
+  <!-- Demos - Mega Menu -->
+                                                <!--menu title with subtitle and icon item start-->
+                              
+                            <!--hosting end-->
+                            <!--domain start-->       
+                                                 <li class="nav-item hs-has-mega-menu custom-nav-item position-relative" data-position="center">
+
+                                <a id="domainMegaMenu" class="nav-link custom-nav-link main-link-toggle" href="JavaScript:Void(0);" aria-haspopup="true" aria-expanded="false">المواقع المميزة</a>
+                               
+                            </li>
+                            <!--domain end-->
+
+                           
+                            <!--about start-->
+                            <li class="nav-item hs-has-mega-menu custom-nav-item position-relative" data-position="center">
+                                <a id="aboutMegaMenu" class="nav-link custom-nav-link main-link-toggle" href="JavaScript:Void(0);" aria-haspopup="true" aria-expanded="false">شات الشركة</a>
+  <!--about submenu start-->
+                                    <!--menu title with subtitle and icon item start-->
+                              
+                                    
+
+                                  
+
+                                    <!--menu title with subtitle and icon item start-->
+                                   <!-- <div class="title-with-icon-item">
+                                        <a class="title-with-icon-link" href="network.html">
+                                            <div class="media align-items-center">
+                                                <img class="menu-titile-icon" src="assets/img/network.svg" alt="SVG">
+                                                <div class="media-body">
+                                                    <span class="u-header__promo-title">Network</span>
+                                                    <small class="u-header__promo-text">Keep your data save and secure
+                                                    </small>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>-->
+                                    <!--menu title with subtitle and icon item end-->
+                                </div>
+                                <!--about submenu end-->
+                            </li>
+                            <!--about end-->
+
+                            <!--button start-->
+                            <li class="nav-item header-nav-last-item d-flex align-items-center">
+                                <a class="btn btn-brand-03 animated-btn" href="https://api.whatsapp.com/send?phone=07711926605" target="_blank">
+                                    <span class=""></span> واتس اب 
+                                </a>
+                            </li>
+                            <!--button end-->
+                            
+                              <!--EN-->
+                           
+                            <!--EN-->
+                        </ul>
+                    </div>
+                    <!--main menu end-->
+                </nav>
+            </div>
+        </div>
+        <!--main header menu end-->
+    </header>
+    <!--header section end-->
+
+    <div class="main">
+
+        <!--hero section start-->
+        <section class="ptb-100 overflow-hidden primary-bg">
+            <div class="container">
+                <div class="row align-items-center justify-content-lg-between justify-content-md-center justify-content-sm-center">
+                    <div class="col-md-12 col-lg-6">
+                        <div class="hero-slider-content text-white py-5">
+                            <div class="headline mb-4">
+
+                            </div>
+                            <h1 class="text-white">شركة ماي هوست لخدمات الشاتات </h1>
+                            <p class="lead">يمكنك الان التملك او الإستئجار مع استضافة ماي هوست</p>
+                                                        <p class="lead">نقدم اليكم شاتات كتابية صوتية</p>
+
+
+                            <div class="action-btns mt-4">
+                                <a href="https://api.whatsapp.com/send?phone=964007711926605" class="btn btn-brand-03 btn-lg">أحجز الان</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-12 col-lg-6">
+                        <div class="img-wrap">
+                            <img src="https://d.top4top.io/p_2254vk8zu1.png" alt="hosting" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+                <!--end of row-->
+            </div>
+            <!--end of container-->
+        </section>
+        <!--hero section end-->
+
+        <!--domain search promo start-->
+        <section class="position-relative zindex-2">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-9 col-lg-8 col-12">
+                        <div class="domain-search-wrap border gray-light-bg">
+                            <h4 class="text-center">احجز دومين لمشروعك الان</h4>
+                            <form action="index.html" method="GET" class="domain-search-form my-4">
+                                <input type="text" name="domain" id="domain" class="form-control" placeholder="yourdomainname.com" />
+                                <div class="select-group">
+                                    <select name="domainType" class="form-control">
+                                        <option value="com" selected>.com</option>
+                                        <option value="net">.net</option>
+                                        <option value="info">.info</option>
+                                        <option value="store">.store</option>
+                                        <option value="store">.org</option>
+                                    </select>
+                                    <button type="submit" class="btn btn-brand-01"><i class=""><img src="svg_icon/fundamental.png" class="laith4" alt="" loading="lazy"></i> بحث</button>
+                                </div>
+                            </form>
+                            <div class="domain-list-wrap text-center">
+                                <ul class="list-inline domain-search-list">
+                                    <li class="list-inline-item bg-white border rounded"><a href="#"><img src="https://a.top4top.io/p_22546rei01.png" alt="com" width="70" class="img-fluid"> <span>$15</span></a>
+                                    </li>
+                                    <li class="list-inline-item bg-white border rounded"><a href="#"><img src="https://h.top4top.io/p_2254fr90z1.png" alt="com" width="70" class="img-fluid"> <span>$15</span></a>
+                                    </li>
+                                    <li class="list-inline-item bg-white border rounded"><a href="#"><img src="https://l.top4top.io/p_2254dficn1.png" alt="com" width="70" class="img-fluid"> <span>$15</span></a>
+                                    </li>
+                                    <li class="list-inline-item bg-white border rounded"><a href="#"><img src="https://h.top4top.io/p_2254p86s71.png" alt="com" width="70" class="img-fluid"> <span>$15</span></a>
+                                    </li>
+                                    <li class="list-inline-item bg-white border rounded"><a href="#"><img src="https://c.top4top.io/p_2254k3t6b1.png" alt="com" width="70" class="img-fluid"> <span>$15</span></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--domain search promo end-->
+
+        <!--promo section start-->
+        <section class="promo-section ptb-100 ">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-10 col-lg-7">
+                        <div class="section-heading text-center">
+                            <h2>نحن نقدم لك أفضل خدمات الاستضافة </h2>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-md-center justify-content-sm-center">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card single-promo-card single-promo-hover text-center p-2 mt-4">
+                            <div class="card-body">
+                                <div class="pb-2">
+     <img src="https://l.top4top.io/p_2254lcert1.png" class="attachment-full size-full" alt="" loading="lazy">
+
+                                </div>
+                                    <h5>سهولة الإعداد</h5>
+                              <div class="pt-2 pb-3">
+
+                                    <p class="mb-0">إن إطلاق موقعك على الأنترنت أمر بسيط وسهل , كل ما تحتاجه هو التواصل مع خدمة العملاء , وسيتم انشاء موقعك في غضون ساعة واحدة</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card single-promo-card single-promo-hover text-center p-2 mt-4">
+                            <div class="card-body">
+                                <div class="pb-2">
+                                         <img src="https://k.top4top.io/p_22541jpn91.png" class="attachment-full size-full" alt="" loading="lazy">
+
+                                </div>
+                                <div class="pt-2 pb-3">
+                                    <h5>دعم مباشر إحترافي</h5>
+                                    <p class="mb-0">سيقوم فريقنا من الخبراء بحل المشكلات الفنية في مواقعك على مدار 24 ساعة</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card single-promo-card single-promo-hover text-center p-2 mt-4">
+                            <div class="card-body">
+                                <div class="pb-2">
+                               <img src="https://d.top4top.io/p_2254c284t1.png" class="attachment-full size-full" alt="" loading="lazy">
+
+                                </div>
+                                <div class="pt-2 pb-3">
+                                    <h5>سرعة الشات</h5>
+                                    <p class="mb-0">نقوم بمتابعة السيرفرات الخاص بنا 24\24 ساعة لكي نوفر لكم أفضل الخدمات</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--promo section end-->
+
+        <!--call to action start-->
+        <section class="ptb-60 primary-bg">
+            <div class="container">
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-md-7 col-lg-6">
+                        <div class="cta-content-wrap text-white">
+                            <h2 class="text-white">لوحة تحكم بتصميم مختلف</h2>
+                            <p>نقوم بتقديم اجمل لوحة تحكم لإدارة المواقع بتصميم جميل ومختلف عن البقية  </p>
+                        </div>
+                    </div>
+                    <div class="col-md-5 col-lg-4">
+                        <div class="cta-img-wrap text-center">
+                            <img src="لوح تحكم" class="img-fluid" alt="server room">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--call to action end-->
+
+          <!--pricing section start-->
+        <section id="pricing" class="pricing-section ptb-100 ">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-9 col-lg-8">
+                        <div class="section-heading text-center mb-4">
+                            <h2>اختر الخطة التي تناسبك</h2>
+                            <p class="lead">                               ابدا موقعك  بأفضل اسعار خطط الاستضافة المتوفرة لدينا
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+               
+                    <div class="col-lg-4 col-md-6 col-sm-8">
+                        <div class="popular-price bg-white pricing-new-wrapper mt-4 p-5 shadow-sm border">
+                                <h5>العرض الذهبي</h5>
+
+                            <div class="pricing-price d-flex justify-content-between align-items-center pb-4">
+
+
+                                <div class="h2 mb-0 text-dark">$24.99<span class="price-cycle h5">شهري</span></div>
+                            </div>
+                            <div class="pricing-info">
+                                <p class="text-muted">نقدم اليكم افضل الخدمات </p>
+                            </div>
+                            <div class="pricing-content">
+                                <ul class="list-unstyled pricing-feature-list-2 mt-4">
+                                     <li><i class="laith1"></i>
+                        <img src="https://d.top4top.io/p_22548ijlo1.png" class="laith2" alt="" loading="lazy">
+
+                                        <p><strong>ارشفة خرائط جوجل</strong></p>
+                                    </li>
+                                    <li><i class="laith1"></i>
+                                                            <img src="https://d.top4top.io/p_22548ijlo1.png" class="laith2" alt="" loading="lazy">
+
+                                        <p><strong> ستايل مجاني</strong></p>
+                                    </li>
+                                    <li><i class="laith1"></i>
+                                                            <img src="https://d.top4top.io/p_22548ijlo1.png" class="laith2" alt="" loading="lazy">
+
+                                        <p><strong>بنر خاص للشات</strong></p>
+                                    </li>
+                                    <li><i class="laith1"></i>
+                                                            <img src="https://d.top4top.io/p_22548ijlo1.png" class="laith2" alt="" loading="lazy">
+
+                                        <p><strong>دعم فني 24 ساعة</strong></p>
+                                    </li>
+                                    <li><i class="laith1"></i>
+                                                            <img src="https://d.top4top.io/p_22548ijlo1.png" class="laith2" alt="" loading="lazy">
+
+                                        <p><strong>سيرفرات سريعة</strong></p>
+                                    </li>
+
+                                    <li><i class="laith1"></i>
+                                                            <img src="https://d.top4top.io/p_22548ijlo1.png" class="laith2" alt="" loading="lazy">
+
+                                        <p><strong>  شهادة SSL</strong></p>
+                                    </li>
+
+                                    <li><i class="laith1"></i>
+                                                            <img src="https://d.top4top.io/p_22548ijlo1.png" class="laith2" alt="" loading="lazy">
+
+                                        <p><strong>لوحة تحكم بتصميم مختلف</strong></p>
+                                    </li>
+
+                                    <li><i class="laith1"></i>
+                                                            <img src="https://d.top4top.io/p_22548ijlo1.png" class="laith2" alt="" loading="lazy">
+
+                                        <p><strong>يمكنك دمج اكثر من شات مجانا</strong></p>
+                                    </li>
+                                    <li><i class="laith1"></i>
+                                                            <img src="https://d.top4top.io/p_22548ijlo1.png" class="laith2" alt="" loading="lazy">
+
+                                        <p><strong>صفحة تواصل للشات </strong></p>
+                                    </li>
+                                    <li><i class="laith1"></i>
+                                                            <img src="https://d.top4top.io/p_22548ijlo1.png" class="laith2" alt="" loading="lazy">
+
+                                        <p><strong>عرض شاتك ضمن قائمة المميزين لدينا</strong></p>
+                                    </li>
+                                </ul>
+                                <a href="https://api.whatsapp.com/send?phone=964007711926605" class="btn btn-brand-01 btn-block" target="_blank">احجز الان</a>
+                
+                
+        </section>
+        <!--pricing section end-->
+
+        <!--call to action start-->
+        <section class="ptb-60 primary-bg">
+            <div class="container">
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-12 col-lg-6">
+                        <div class="cta-content-wrap text-white">
+                            <h2 class="text-white">دعم فني على مدار 24 ساعة</h2>
+                            <p>لدينا افضل خبراء الدعم  و هم في خدمتكم طوال أيام الاسبوع </p>
+                        </div>
+                        <div class="support-action d-inline-flex flex-wrap">
+                            <a href="WhatsApp" class="mr-3"><img src="https://g.top4top.io/p_2254suaw21.png" class="laith2" alt="" loading="lazy">
+<span>WhatsApp</span></a>
+           <a href="tel:07711926605" class="mb-0"><img src="https://j.top4top.io/p_2254xw7cp1.png" class="laith2" alt="" loading="lazy"></i> <span>964007711926605</span></a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 d-none d-lg-block">
+                        <div class="cta-img-wrap text-center">
+                            <img src="https://g.top4top.io/p_2254s6ohx1.jpg" width="250" class="img-fluid" alt="server room">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--call to action end-->
+
+        <!--testimonial section start-->
+        <section class="review-section ptb-100 ">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-10 col-lg-7">
+                        <div class="section-heading text-center">
+                            <h2>تواصل معنا</h2>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="owl-carousel owl-theme client-testimonial-1 dot-bottom-center custom-dot">
+                        <div class="item">
+                            <div class="border single-review-wrap bg-white p-4 m-3">
+                                <div class="review-body">
+                                    <h5>المدير العام</h5>
+                                <p>للحجز والاستفسارات والتحويل </p>
+    <h3 style="margin: 0;">هاتف</h3>
+    <p style="text-align: center;">
+        <i style="font-size: 0px;color: #06a20c;"class="fa fa-whatsapp"><img src="https://g.top4top.io/p_2254suaw21.png" class="laith2" alt="" loading="lazy"></i> 964007711926605</p>
+
+                                </div>
+                                <div class="review-author d-flex align-items-center">
+                                    <div class="author-avatar">
+                                        <img src="https://g.top4top.io/p_2254eoi9a1.png" width="64" alt="author" class="rounded-circle shadow-sm img-fluid mr-3" />
+                                        <span><img src="https://l.top4top.io/p_2254l9itj1.png" class="laith7" alt="" loading="lazy"></span>
+                                    </div>
+                                    <div class="review-info">
+                                        <h6 class="mb-0">Laith | abbas </h6>
+                                        <span>صاحب الإستضافة </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="border single-review-wrap bg-white p-4 m-3">
+                                <div class="review-body">
+                                    <h5>الدعم الفني </h5>
+                                    <p>للشكاوي والإستفسارات وطلب التحديثات </p>
+                                      <h3 style="margin: 0;">هاتف</h3>
+    <p style="text-align: center;">
+        <i style="font-size: 0px;color: #06a20c;"class="fa fa-whatsapp"><img src="https://g.top4top.io/p_2254suaw21.png" class="laith2" alt="" loading="lazy"></i> 964007711926605</p>
+
+                                </div>
+                                <div class="review-author d-flex align-items-center">
+                                    <div class="author-avatar">
+                                        <img src="https://g.top4top.io/p_2254eoi9a1.png" width="64" alt="author" class="rounded-circle shadow-sm img-fluid mr-3" />
+                                        <span><img src="https://l.top4top.io/p_2254l9itj1.png" class="laith7" alt="" loading="lazy"></span>
+           </div>
+                                    <div class="review-info">
+                                        <h6 class="mb-0"> soon </h6>
+                                        <span>وكيل اليمن</span>
+                        </div>
+                   </section>
+                   <div id="content">
+
+<h2 id="content__title">بعض من عملائنا المميزين  </h2>
+        
+        <div class="content__chats">
+
+            <a target="_blank" href="soon">
+                <img src="https://j.top4top.io/p_22542iogn1.png" alt="">
+            </a>
+
+            <a target="_blank" href="soon">
+                <img src="https://j.top4top.io/p_22542iogn1.png" alt="">
+            </a>
+
+            <a target="_blank" href="soon">
+                <img src="https://j.top4top.io/p_22542iogn1.png" alt="">
+            </a>
+                   </div>
+</div>
+        <!--testimonial section end-->
+
+    <!--footer section start-->
+    <footer class="footer-1 ptb-60 gradient-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-lg-4 mb-4 mb-md-4 mb-sm-4 mb-lg-0">
+                    <a href="#" class="navbar-brand mb-2">
+                        <img src="https://l.top4top.io/p_2254x7vr81.gif" alt="logo" class="img-fluid">
+                    </a>
+                    <br>
+                    <p>ماي  هوست هي شركة تأجير وبيع الشاتات الصوتية والكتابية مهمتها اسعادكم وخدمتكم</p>
+                    <ul class="list-inline social-list-default background-color social-hover-2 mt-2">
+                        <li class="list-inline-item"><a class="twitter" href=""><img src="https://b.top4top.io/p_2254b4agw1.png" class="laith3" alt="" loading="lazy">
+                        <li class="list-inline-item"><a class="youtube" href=""><img src="https://a.top4top.io/p_225465q791.jpg" class="laith3" alt="" loading="lazy">
+                        <li class="list-inline-item"><a class="facebook" href=""><img src="https://i.top4top.io/p_2254z49uw1.jpg" class="laith3" alt="" loading="lazy">
+                    </ul>
+                </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--end of container-->
+    </footer>
+
+    <!--footer bottom copyright start-->
+    <div class="footer-bottom py-3 gray-light-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-lg-7">
+                    <div class="copyright-wrap small-text">
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-5">
+                    <div class="terms-policy-wrap text-lg-right text-md-right text-left">
+                        <ul class="list-inline">
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--footer bottom copyright end-->
+    <!--footer section end-->
+    <!--scroll bottom to top button start-->
+    <div class="scroll-top scroll-to-target primary-bg text-white" data-target="html">
+                                <img src="https://e.top4top.io/p_22547015k1.png" class="laith3" alt="" loading="lazy">   </div>
+    <!--scroll bottom to top button end-->
+    <!--build:js-->
+    <script src="https://rawcdn.githack.com/iq-chat-iraq/mu.css/5682dce1de075b8a557686394f242e1412eb715c/jquery-3.5.1.min.js"></script>
+    <script src="https://rawcdn.githack.com/iq-chat-iraq/mu.css/5682dce1de075b8a557686394f242e1412eb715c/popper.min.js"></script>
+    <script src="https://rawcdn.githack.com/iq-chat-iraq/mu.css/5682dce1de075b8a557686394f242e1412eb715c/bootstrap.min-rtl.js"></script>
+    <script src="https://rawcdn.githack.com/iq-chat-iraq/mu.css/5682dce1de075b8a557686394f242e1412eb715c/bootstrap-slider.min.js"></script>
+    <script src="https://rawcdn.githack.com/iq-chat-iraq/mu.css/5682dce1de075b8a557686394f242e1412eb715c/jquery.easing.min.js"></script>
+    <script src="https://rawcdn.githack.com/iq-chat-iraq/mu.css/dc68470e2e4123dd0bc8f3976cb5e67cf399df1c/owl.carousel.min.js"></script>
+    <script src="https://rawcdn.githack.com/iq-chat-iraq/mu.css/dc68470e2e4123dd0bc8f3976cb5e67cf399df1c/countdown.min1.js"></script>
+    <script src="https://rawcdn.githack.com/iq-chat-iraq/mu.css/1a4429e45b4a2e7efae761069d45c6132cbc39b6/jquery.waypoints.min.js"></script>
+    <script src="https://rawcdn.githack.com/iq-chat-iraq/mu.css/1a4429e45b4a2e7efae761069d45c6132cbc39b6/jquery.rcounterup.js"></script>
+    <script src="https://rawcdn.githack.com/iq-chat-iraq/mu.css/4e8d8de758642adcca193bba724ad5d0df21a460/magnific-popup.min.js"></script>
+    <script src="https://rawcdn.githack.com/iq-chat-iraq/mu.css/4e8d8de758642adcca193bba724ad5d0df21a460/validator.min.js"></script>
+    <script src="https://rawcdn.githack.com/iq-chat-iraq/mu.css/9ddc9042fdd070a5e58fc0cc7beff6b2215325d4/hs.megamenu.js"></script>
+    <script src="https://rawcdn.githack.com/iq-chat-iraq/mu.css/9ddc9042fdd070a5e58fc0cc7beff6b2215325d4/app.js"></script>
+    <!--endbuild-->
+    
+    <!--tidio-->
+    <script src="jquery.min.js"></script>
+    <script src="bootstrap.bundle.min.js"></script>
+    <!-- sidebar -->
+ 
+
+    <!--tidio-->
+
+    </div>
+
+
+</body>
+<style>
+    .fa-lock:before {
+    content: "\f135"
+}
+.main-link-toggle:after{
+
+display:none!important;
+
+
+}
+
+.single-review-wrap {
+  border-radius: 20px;
+      box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 8px #707071;
+    background: repeating-linear-gradient(45deg,rgba(255,255,255,.8),rgb(255,255,255) 100px,#ffffffb0 0,#fff6f699 200px),repeating-linear-gradient(-45deg,rgba(255,255,255,.5),rgba(255,255,255,.93) 100px,#b3adadd1 0,#ffffffe6 200px)!important;
+}
+
+.pricing-new-wrapper {
+   
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 8px #707071!important;
+    background: repeating-linear-gradient(45deg,rgba(255,255,255,.8),rgb(255,255,255) 100px,#ffffffb0 0,#fff6f699 200px),repeating-linear-gradient(-45deg,rgba(255,255,255,.5),rgba(255,255,255,.93) 100px,#b3adadd1 0,#ffffffe6 200px)!important;
+}
+.pb-4, .py-4 {
+      padding-bottom: 1.5rem !important;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 8px #bebebe;
+    border-radius: 25px;
+    margin: 1px -10px 1px 9px;
+    width: 230px;
+    background: #50b849;
+    padding: 17px;
+}
+.single-promo-card.single-promo-hover {
+    -webkit-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out;
+    overflow: hidden;
+    z-index: 1;
+    background: repeating-linear-gradient(45deg,rgba(255,255,255,.8),rgb(255,255,255) 100px,#ffffffb0 0,#fff6f699 200px),repeating-linear-gradient(-45deg,rgba(255,255,255,.5),rgba(255,255,255,.93) 100px,#b3adadd1 0,#ffffffe6 200px)!important;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 8px #707071;
+}
+#content .content__chats a img {
+    max-width: 100%;
+}
+#content #content__title {
+    text-align: center;
+    margin-bottom: 15px;
+}
+#content #content__title {
+    padding: 5px;
+    background: #0397ff;
+    border-radius: 25px;
+    color: #fbfbfb;
+    height: 34px;
+    font-size: 19px;
+}
+#content .content__chats {
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: inset 3px 13px 1px rgb(0 0 0 / 8%), 0 0 8px #707071;
+}
+#content .content__chats a {
+    padding: 1rem;
+    flex: 1;
+    flex-basis: 20%;
+}
+
+.fa-home:before {
+    content: "\2237"
+}
+.laith7 {
+    height: 35px;
+    margin: -2px 3px 3px 4px;
+}
+
+.rounded-circle.shadow-sm.img-fluid.mr-3 {
+    height: 60px;
+    width: 60px;
+    margin: 12px 1px 4px 4px;
+}
+
+
+}
+.main-link-toggle::after {
+      display:none!important;}
+
+     .laith1:before {
+display:none}
+
+.laith2 {
+    margin: -5px -6px 5px 11px;
+    height: 20px;
+}
+.laith3 {
+    height: 30px;
+}
+.laith4 {
+    height: 32px;
+    margin: 0px 0px 0px 8px;
+}
+
+</style>
+
+</html>
